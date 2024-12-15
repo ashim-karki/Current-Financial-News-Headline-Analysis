@@ -20,21 +20,21 @@ Dataset: [Sentiment Analysis for Financial News](https://www.kaggle.com/datasets
 | **Weighted Avg** | 0.87 | 0.86   | 0.86     | 485     |
 
 ### Installation:
-1. ```bash pip install -r requirements.txt
+1. ```pip install -r requirements.txt
 
 2. run **notebooks/training.ipynb** and the trained model will be stored in **models** folder.
 
-3. ```bash streamlit run sentiment.py
+3. ```streamlit run sentiment.py
 
 ### Output
 
 1. Enter the number of news headlines to scrape from google news along with the relevant topic:
-![Screenshot 2024-12-15 at 9 03 15 AM](https://github.com/user-attachments/assets/8d34cfe0-82db-4d5d-8272-19f071374cf4)
+<img src="https://github.com/user-attachments/assets/8d34cfe0-82db-4d5d-8272-19f071374cf4" alt="Screenshot" width="400"/>
 
-2. Press Submit after which scraping and sentiment analysis will begin:
+3. Press Submit after which scraping and sentiment analysis will begin:
 ![Screenshot 2024-12-15 at 9 03 55 AM](https://github.com/user-attachments/assets/62768433-7d3e-4a62-9af8-2792bdd7d845)
 
-3. Evaluated news headlines can be viewed as:
+4. Evaluated news headlines can be viewed as:
 ![Screenshot 2024-12-15 at 9 04 54 AM](https://github.com/user-attachments/assets/65004c3c-1cfd-4afa-8449-f27f33bf7b68)
 ![Screenshot 2024-12-15 at 9 05 13 AM](https://github.com/user-attachments/assets/f1e4448b-103f-4de6-bcbb-dbba752104ad)
 
