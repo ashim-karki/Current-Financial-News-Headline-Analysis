@@ -1,4 +1,4 @@
-# Current-Financial-News-Headline-Analysis
+# Current-Financial-News-Headline-Sentiment-Analysis
 This BERT cased model was fine-tuned on the Kaggle dataset using Huggingface library and Beautifulsoup was used for scraping google news for relevant news headlines.
 
 Dataset: [Sentiment Analysis for Financial News](https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news)
