@@ -38,4 +38,4 @@ Dataset: [Sentiment Analysis for Financial News](https://www.kaggle.com/datasets
 
 3. Evaluated news headlines can be viewed as:
 <img src="https://github.com/user-attachments/assets/65004c3c-1cfd-4afa-8449-f27f33bf7b68" alt="Screenshot 1" width="600"/>
-<img src="https://github.com/user-attachments/assets/f1e4448b-103f-4de6-bcbb-dbba752104ad" alt="Screenshot 2" width="600"/>
+<img src="https://github.com/user-attachments/assets/f1e4448b-103f-4de6-bcbb-dbba752104ad" alt="Screenshot 2" width="300"/>
